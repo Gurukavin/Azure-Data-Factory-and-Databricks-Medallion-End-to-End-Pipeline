@@ -1,0 +1,12 @@
+{
+	"name": "Azure_storage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://gurustorageadf.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQ5Q0EzMTRFLUFGODUtNDdDOC05RDk2LUMxRTk0NTgyM0IwQV8zYmJmMGY5OC1hYzIxLTRjN2UtODUzMC1iOGE4ZDA1ODhmNGQiDQp9"
+		}
+	}
+}

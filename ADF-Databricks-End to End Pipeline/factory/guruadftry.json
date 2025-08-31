@@ -1,0 +1,9 @@
+{
+	"name": "guruadftry",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e483ed31-1d00-4347-8fcb-7493a000b5a1",
+		"tenantId": "1ec3ea0d-a234-44d6-8d6b-00d926e68a34"
+	}
+}
